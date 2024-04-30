@@ -6,9 +6,6 @@ const Deck = () => {
 	return (
 		 <>
 		     <Card />
-			 <Card  />
-			 <Card  />
-			 <Card  />
 		 </>
 	);
 };
